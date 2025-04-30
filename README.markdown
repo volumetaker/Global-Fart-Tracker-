@@ -30,8 +30,8 @@ The DApp will be free to use, with GFT tokens required for premium features (e.g
 ## 5. Roadmap
 ### Q2 2025: Pre-Launch
 - Launch GFT on Pump.fun.
-- Launch website (globalfarttracker.com) with token details and whitepaper.
-- Create X account (@GlobalFartTrack) and post－ launch announcement.
+- Launch website with token details and whitepaper.
+- Create X account (@GlobalFartInc) and post－ launch announcement.
 - Initiate first meme contest and airdrop (50,000 GFT).
 
 ### Q3 2025: Community Growth
