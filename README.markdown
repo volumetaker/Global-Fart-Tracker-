@@ -71,4 +71,4 @@ GLOBAL FART TRACKER is a decentralized project for entertainment and community e
 ## 9. Conclusion
 GLOBAL FART TRACKER is here to make crypto fun and a little stinky. Launched on Pump.fun with a community-driven approach, a playful DApp, and a founder allocation of 7.5% for community building and vesting, GFT is poised to leave a whiff on the blockchain. Join us on X (@GlobalFartTrack) and let’s track the world’s hot air together!
 
-**Contact**: X: @GlobalFartTrack
+**Contact**: X: @GlobalFartInc
